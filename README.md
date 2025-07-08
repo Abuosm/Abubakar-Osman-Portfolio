@@ -54,7 +54,9 @@
 ---
 
 🖼️ Screenshots
-📱 Mobile View	💻 Desktop View
+📱 ![WhatsApp Image 2025-07-08 at 21 23 42_d460976e](https://github.com/user-attachments/assets/97509dd0-9878-4c25-bd58-4458e6c9f298)
+	💻 ![image](https://github.com/user-attachments/assets/a3a46ff8-c734-49c9-8b35-1036dc04ca86)
+
 	
 
 🧑‍🎓 About Me
