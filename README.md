@@ -1,82 +1,92 @@
-<h1 align="center">🧑‍💻 Abubakar Osman — Developer Portfolio</h1>
+<h1 align="center">🚀 Abubakar Osman — Developer Portfolio</h1>
 
 <p align="center">
-  <a href="https://abubakar-osman-portfolio.vercel.app" target="_blank">
-    🌐 Live Demo
-  </a> |
-  <a href="https://github.com/Abuosm/Abubakar-Osman-Portfolio" target="_blank">
-    📂 Source Code
-  </a>
+  <a href="https://abubakar-osman-portfolio.vercel.app" target="_blank"><strong>🌐 Live Demo</strong></a> &nbsp;|&nbsp;
+  <a href="https://github.com/Abuosm/Abubakar-Osman-Portfolio" target="_blank"><strong>📂 Source Code</strong></a>
 </p>
 
 <p align="center">
-  A clean, responsive, and modern developer portfolio built using HTML, CSS, and JavaScript.
+  A clean, responsive, and modern <b>developer portfolio</b> crafted using <b>HTML, CSS, and JavaScript</b>.
   <br/>
-  Showcasing my projects, blogs, testimonials, and contact form — all in one place.
+  Showcasing my projects, blogs, testimonials, and contact section — all in one place ✨
 </p>
 
 ---
 
-## 📸 Preview
+## 🖼️ Screenshots
 
-![Portfolio Preview](https://raw.githubusercontent.com/Abuosm/Abubakar-Osman-Portfolio/main/assets/images/preview.png)
-
-
-
----
-
-## 🚀 Live Website
-
-👉 **Visit Now:** [abubakar-osman-portfolio.vercel.app](https://abubakar-osman-portfolio.vercel.app)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/97509dd0-9878-4c25-bd58-4458e6c9f298" alt="Mobile View" width="250"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/a3a46ff8-c734-49c9-8b35-1036dc04ca86" alt="Desktop View" width="500"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🔗 Live Website
 
-- ✅ **HTML5**
-- ✅ **CSS3** (with animations)
-- ✅ **Vanilla JavaScript**
-- ✅ **Responsive Design** (mobile-friendly)
-- ✅ **Vercel** for hosting
+🎯 **Visit now:** [abubakar-osman-portfolio.vercel.app](https://abubakar-osman-portfolio.vercel.app)
 
 ---
 
-## 📁 Features
+## ⚙️ Tech Stack
 
-- ✨ Personal introduction & bio section
-- 💼 Project showcase with filtering
-- ✍️ Blog layout (customizable for LinkedIn posts or Medium articles)
-- 🌐 Social media links (GitHub, LinkedIn, Instagram)
-- 📬 Contact form with validation
-- 🎨 Modal popups for testimonials
-- 📱 Fully responsive across devices
+- 🔹 **HTML5**
+- 🔹 **CSS3** (with transitions and animations)
+- 🔹 **Vanilla JavaScript**
+- 🔹 **Responsive Web Design**
+- 🔹 **Deployed on Vercel**
 
 ---
 
-🖼️ Screenshots
-📱 ![WhatsApp Image 2025-07-08 at 21 23 42_d460976e](https://github.com/user-attachments/assets/97509dd0-9878-4c25-bd58-4458e6c9f298)
-	💻 ![image](https://github.com/user-attachments/assets/a3a46ff8-c734-49c9-8b35-1036dc04ca86)
+## 🎯 Key Features
 
-	
+- 👤 Personal Introduction & Bio
+- 🛠️ Project Showcase with Filtering
+- ✍️ Blog Layout for Articles or LinkedIn Posts
+- 📱 Fully Responsive Design (Mobile + Desktop)
+- 🧠 Modal Popups for Testimonials
+- 📬 Contact Form with Validation
+- 🔗 Social Media Integration (GitHub, LinkedIn, Instagram)
 
-🧑‍🎓 About Me
-I'm Abubakar Osman, a passionate full-stack developer and designer from India 🇮🇳. I love building innovative web apps, solving real-world problems, and exploring AI, cloud, and IoT.
+---
 
-📌 LinkedIn
+## 🧑‍💻 About Me
+
+Hi, I'm **Abubakar Osman**, a passionate full-stack developer from **India 🇮🇳**.  
+I love crafting sleek web interfaces, building useful digital products, and exploring fields like:
+- 🌩️ Cloud Computing
+- 🤖 AI/ML
+- 🌐 Web Security
+- 📱 IoT & Embedded Systems
+
+📌 [LinkedIn Profile](https://www.linkedin.com/in/abubakar-osman-009620245/)  
 📧 abubakerosman56@gmail.com
 
-💡 Future Enhancements
-Convert to React.js
+---
 
-Add dark mode toggle
+## 🛣️ Future Enhancements
 
-Integrate backend for blogs & contact
+- ⚛️ Convert portfolio to **React.js**
+- 🌙 Add **Dark Mode Toggle**
+- 🌐 Connect backend for **blog posting & contact form**
+- 🌀 Integrate animation libraries like **AOS** or **GSAP**
+- 📸 Add project demo videos
 
-Add animation libraries like AOS or GSAP
+---
 
-📜 License
-This project is licensed under the MIT License. Feel free to use, modify, and share with attribution.
+## 📜 License
 
-🙌 Feedback
-If you like this project, feel free to ⭐ the repo and share your thoughts!
-Want a portfolio like this? Fork it and make it yours!
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute it — with attribution.
+
+---
+
+## 🙌 Feedback & Support
+
+If you liked this portfolio, please give it a ⭐ on GitHub!  
+Want a similar portfolio? Fork it and make it your own — feel free to reach out!
+
+<p align="center">
+  Made with ❤️ by <strong>Abubakar Osman</strong>
+</p>
