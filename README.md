@@ -21,7 +21,7 @@
 
 ![Portfolio Preview](https://raw.githubusercontent.com/Abuosm/Abubakar-Osman-Portfolio/main/assets/images/preview.png)
 
-> _Tip: Add a screenshot of your homepage here by placing a `preview.png` in your repo or updating the URL._
+
 
 ---
 
